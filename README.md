@@ -4,9 +4,9 @@ A collection of plugins for BetterDiscord.
 
 ## Plugins
 
-| Plugin                                                            | Description                                                                                                             | Version | Status    |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------- | --------- |
-| [LinkSummarizer](plugins/LinkSummarizer/LinkSummarizer.plugin.js) | Summarizes links using Ollama's local AI models. Right-click on any message containing a link to get a concise summary. | 1.0.0   | ✅ Stable |
+| Plugin                                                            | Description                                                                                                             | Version |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------- |
+| [LinkSummarizer](plugins/LinkSummarizer/LinkSummarizer.plugin.js) | Summarizes links using Ollama's local AI models. Right-click on any message containing a link to get a concise summary. | 1.0.0   |
 
 ## Requirements
 
